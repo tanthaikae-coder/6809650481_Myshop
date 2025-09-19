@@ -90,3 +90,10 @@ section {
     margin-left: auto;
     margin-right: auto;
 }
+.poster2{
+    background-color: #444343;
+    height: auto;
+    width: auto;
+    padding: 10px 15px;
+
+}
